@@ -1,0 +1,61 @@
+{
+  "result": true,
+  "code": 0,
+  "message": null,
+  "response": {
+    "total": 26,
+    "verifiedPurchaseCount": 3,
+    "reviews": [
+      {
+        "uid": "649065cce5da75.53905336",
+        "type": 1,
+        "productId": 1000759114,
+        "userId": 4522180,
+        "name": "Test",
+        "email": "",
+        "text": "",
+        "rating": 5,
+        "isPublic": true,
+        "isValidate": true,
+        "updatedAt": "19-06-2023",
+        "isVerifiedPurchase": true,
+        "isRecommend": true,
+        "pros": ["test"],
+        "cons": ["test test"],
+        "countUseful": 9999999999999999,
+        "countNotUseful": 888888888888,
+        "isUsefulVoted": false,
+        "isArtificial": false,
+        "originalText": "",
+        "language": "cz",
+        "originalPros": [199999999999],
+        "originalCons": []
+      },
+      {
+        "uid": "1_648981900e5917.68546049",
+        "type": 1,
+        "productId": 1000759114,
+        "userId": 6064,
+        "name": "test",
+        "email": "",
+        "text": "test",
+        "rating": 5,
+        "isPublic": true,
+        "isValidate": true,
+        "updatedAt": "15-06-2023",
+        "isVerifiedPurchase": true,
+        "isRecommend": true,
+        "pros": ["yyyy"],
+        "cons": ["xxxxxxx"],
+        "countUseful": 0,
+        "countNotUseful": 0,
+        "isUsefulVoted": false,
+        "isArtificial": false,
+        "originalText": null,
+        "language": "cz",
+        "originalPros": [],
+        "originalCons": []
+      }
+    ]
+  }
+}

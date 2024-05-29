@@ -1,0 +1,11 @@
+{
+  "name": "qa-learn-cypress",
+  "version": "1.0.0",
+  "description": "Temporary learning project",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.7.2",
+    "typescript": "^5.4.4"
+  }
+}
